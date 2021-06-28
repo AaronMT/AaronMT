@@ -1,16 +1,37 @@
-### Hi there 👋
+# Aaron Train
 
-<!--
-**AaronMT/AaronMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience ⚡
+#### Sr. Test Ops
+**Mozilla : Product**
+* Jan 2021 - Present
+> * CI pipeline
+> * Test dashboarding
 
-Here are some ideas to get you started:
+👷‍♂️ [WIP below]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Mobile SDET
+**Mozilla : Product**
+* Jan 2018 - Jan 2021
+> * iOS (XCUI)
+> * Android Test (Espresso)
+
+# Education :books:
+
+#### Seneca College
+**BSD, Honours Bachelor of Technology**
+*2007 - 2010*
+
+#### Seneca College
+**CPA, Computer Programming & Analysis**
+*2004 - 2017*
+
+### Contact
+
+| | |
+|:----:|:---:|
+|:incoming_envelope: | [aaron.train@gmail.com](mailto:aaron.train@gmail.com)|
+|:bird: | [@aaronmt](https://twitter.com/aaronmt)|
+|:octocat: | [aaronmt](https://github.com/aaronmt/)|
+
+
+- 💬 Ask me about The Sega Genesis
