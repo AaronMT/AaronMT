@@ -1,4 +1,4 @@
-# Aaron Train
+# AARON TRAIN
 
 ## Experience ⚡
 #### Sr. Test Ops
@@ -7,13 +7,21 @@
 > * CI pipeline
 > * Test dashboarding
 
-👷‍♂️ [WIP below]
+👷‍♂️ [WIP]
 
 #### Mobile SDET
 **Mozilla : Product**
 * Jan 2018 - Jan 2021
 > * iOS (XCUI)
 > * Android Test (Espresso)
+
+👷‍♂️ [WIP]
+
+#### QA Engineer
+**Mozilla: Product**
+* April 2009 - August 2009
+> * Firefox Desktop (Test)
+> * Firefox Android (Test)
 
 # Education :books:
 
