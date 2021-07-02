@@ -31,7 +31,7 @@
 
 #### Seneca College
 **CPA, Computer Programming & Analysis**
-*2004 - 2017*
+*2004 - 2007*
 
 ### Contact
 
