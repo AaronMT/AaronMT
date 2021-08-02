@@ -8,8 +8,7 @@ jobs:
     strategy:
       matrix:
         python-version: [3.9]
-        configuration: 
-          - { config: 'fenix', 'android-components', 'reference-browser'}
+        - { config: 'fenix', 'android-components', 'reference-browser'}
     steps:
       - uses: actions/checkout@v2
       - name: Set up Python ${{ matrix.python-version }}
@@ -19,4 +18,4 @@ jobs:
       - name: Run script
         id: runClient
         run: |
-          echo '${{ matrix.configuration['config'] }}'
+          echo '${{ matrix.config] }}'
