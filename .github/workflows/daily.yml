@@ -6,7 +6,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
-      matrix: { config: 'fenix', 'android-components', 'reference-browser'}
+      matrix: 
+        configuration: { config: ['fenix', 'android-components', 'reference-browser']}
         python-version: [3.9]
     steps:
       - uses: actions/checkout@v2
@@ -17,4 +18,4 @@ jobs:
       - name: Run script
         id: runClient
         run: |
-          echo '${{ matrix.config] }}'
+          echo '${{ matrix.configuration.config] }}'
