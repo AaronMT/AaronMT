@@ -6,9 +6,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
-      matrix:
+      matrix: { config: 'fenix', 'android-components', 'reference-browser'}
         python-version: [3.9]
-        - { config: 'fenix', 'android-components', 'reference-browser'}
     steps:
       - uses: actions/checkout@v2
       - name: Set up Python ${{ matrix.python-version }}
