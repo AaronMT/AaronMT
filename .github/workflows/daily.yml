@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix: 
-        configuration: { config: ['fenix', 'android-components', 'reference-browser']}
+        - { config: ['fenix', 'android-components', 'reference-browser'] }
         python-version: [3.9]
     steps:
       - uses: actions/checkout@v2
