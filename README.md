@@ -1,45 +1,23 @@
-# AARON TRAIN
+**Hi 👋, I'm Aaron!**
 
-## Experience ⚡
-#### Sr. Test Ops
-**Mozilla : Product**
-* Jan 2021 - Present
-> * CI pipeline
-> * Test dashboarding
+**I am a Senior Mobile SDET working @ [Mozilla](https://github.com/mozilla-mobile) in Toronto, Ontario.**
 
-👷‍♂️ [WIP]
+Some recent work ⚡:
 
-#### Mobile SDET
-**Mozilla : Product**
-* Jan 2018 - Jan 2021
-> * iOS (XCUI)
-> * Android Test (Espresso)
-
-👷‍♂️ [WIP]
-
-#### QA Engineer
-**Mozilla: Product**
-* April 2009 - August 2009
-> * Firefox Desktop (Test)
-> * Firefox Android (Test)
-
-# Education :books:
-
-#### Seneca College
-**BSD, Honours Bachelor of Technology**
-*2007 - 2010*
-
-#### Seneca College
-**CPA, Computer Programming & Analysis**
-*2004 - 2007*
+* 📱 **Android**
+  *   [Mobile Test Health](https://github.com/mozilla-mobile/mobile-test-health) - Small Python project that builds a coalesces [Treeherder](https://treeherder.mozilla.org/), [Taskcluster](https://github.com/taskcluster), and Github :octocat: to build a dataset (and post to Slack) for monitoring our mobile Android [Espresso](https://developer.android.com/training/testing/espresso) tests 
+* 🌟 **Github Actions**
+  * [Firefox for Android - Build Contributor PR](https://github.com/mozilla-mobile/fenix/blob/main/.github/workflows/build-contributor-pr.yml) - Building, executing and testing contributor pull requests along with various checks on Firefox for Android 
+* ☁️ **Cloud Functions**
+  * [Firebase Test Lab Slack Notifications](https://github.com/mozilla-mobile/cloud-functions-slack) - Utilizes the `Cloud Testing API` event model to post to Slack
 
 ### Contact
 
-| | |
+| Social| |
 |:----:|:---:|
 |:incoming_envelope: | [aaron.train@gmail.com](mailto:aaron.train@gmail.com)|
 |:bird: | [@aaronmt](https://twitter.com/aaronmt)|
 |:octocat: | [aaronmt](https://github.com/aaronmt/)|
 
 
-💬 Ask me about The Sega Genesis 👍
+💬 Ask me anything about The Sega Genesis 👍
