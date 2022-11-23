@@ -18,6 +18,6 @@ Some recent work ⚡:
 |:incoming_envelope: | [aaron.train@gmail.com](mailto:aaron.train@gmail.com)|
 |:bird: | [@aaronmt](https://twitter.com/aaronmt)|
 |:octocat: | [aaronmt](https://github.com/aaronmt/)|
-|:elephant: | <a rel="me" href="https://mstdn.ca/@AaronMT">Mastodon</a>
+|:elephant: | <a rel="me" href="https://fosstodon.org/@AaronMT">Mastodon</a>
 
 💬 Ask me anything about The Sega Genesis 👍
